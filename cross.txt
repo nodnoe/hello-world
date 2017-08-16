@@ -48,7 +48,6 @@ title
 descr
 package
 img url
-
 -n-if package selected equal package below. then choose package number 
 -n-package
 -n-1
