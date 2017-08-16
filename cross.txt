@@ -2,7 +2,7 @@
 -n-title on
 -n-descr
 -n-package
--n-img url
+-n-https://www.google.com/search?q=githup+raw+data+not+update&ie=utf-8&oe=utf-8&client=firefox-b-ab
 -n-2
 -n-title
 -n-descr
