@@ -1,58 +1,55 @@
+-n-1
+-n-title
+-n-descr
+-n-package
+-n-img url
+-n-2
+-n-title
+-n-descr
+-n-package
+-n-img url
+-n-3
+title
+descr
+package
+img url
 -n-4
-
--n-title
--n-descr
--n-package
--n-img url
-
--n-title
--n-descr
--n-package
--n-img url
-
+title
+descr
+package
+img url
+-n-5
+title
+descr
+package
+img url
+-n-6
+title
+descr
+package
+img url
+-n-7
+title
+descr
+package
+img url
+-n-8
+title
+descr
+package
+img url
+-n-9
+title
+descr
+package
+img url
+-n-10
 title
 descr
 package
 img url
 
-title
-descr
-package
-img url
-
-title
-descr
-package
-img url
-
-title
-descr
-package
-img url
-
-title
-descr
-package
-img url
-
-
-title
-descr
-package
-img url
-
-
-title
-descr
-package
-img url
-
-title
-descr
-package
-img url
-
-
+-n-if package selected equal package below. then choose package number 
 -n-package
 -n-1
 -n-package
